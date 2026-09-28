@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# 🚀 [Crime-Evidence-Ai]
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -11,7 +11,7 @@
 | **Team Name** | Real Madrid |
 | **Track** | [AI / DevOps / Sustainability / Open] |
 | **Team Lead** | [Anshul] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Members** | [Anshul], [Abhay], [Amritansh] |
 
 ---
 
